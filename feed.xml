@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>Northstar Demo Catalog</title>
+    <link>https://YOUR-VERCEL-DOMAIN.vercel.app/</link>
+    <description>Demo products for Meta catalog testing</description>
+    <item><g:id>NS-001</g:id><g:title>The Daily Bottle</g:title><g:description>A simple bottle for everyday hydration.</g:description><g:availability>in_stock</g:availability><g:condition>new</g:condition><g:price>420.00 EGP</g:price><g:link>https://YOUR-VERCEL-DOMAIN.vercel.app/#products</g:link><g:image_link>https://YOUR-VERCEL-DOMAIN.vercel.app/images/bottle.jpg</g:image_link><g:brand>Northstar</g:brand></item>
+    <item><g:id>NS-002</g:id><g:title>Everyday Tote</g:title><g:description>Room for the things you carry every day.</g:description><g:availability>in_stock</g:availability><g:condition>new</g:condition><g:price>560.00 EGP</g:price><g:link>https://YOUR-VERCEL-DOMAIN.vercel.app/#products</g:link><g:image_link>https://YOUR-VERCEL-DOMAIN.vercel.app/images/tote.jpg</g:image_link><g:brand>Northstar</g:brand></item>
+    <item><g:id>NS-003</g:id><g:title>Soft Form Cap</g:title><g:description>An easy finishing touch.</g:description><g:availability>in_stock</g:availability><g:condition>new</g:condition><g:price>390.00 EGP</g:price><g:link>https://YOUR-VERCEL-DOMAIN.vercel.app/#products</g:link><g:image_link>https://YOUR-VERCEL-DOMAIN.vercel.app/images/cap.jpg</g:image_link><g:brand>Northstar</g:brand></item>
+    <item><g:id>NS-004</g:id><g:title>Calm Desk Lamp</g:title><g:description>Warm light for focused evenings.</g:description><g:availability>in_stock</g:availability><g:condition>new</g:condition><g:price>1250.00 EGP</g:price><g:link>https://YOUR-VERCEL-DOMAIN.vercel.app/#products</g:link><g:image_link>https://YOUR-VERCEL-DOMAIN.vercel.app/images/lamp.jpg</g:image_link><g:brand>Northstar</g:brand></item>
+    <item><g:id>NS-005</g:id><g:title>Weekend Sneakers</g:title><g:description>Comfort built for slower weekends.</g:description><g:availability>in_stock</g:availability><g:condition>new</g:condition><g:price>1850.00 EGP</g:price><g:link>https://YOUR-VERCEL-DOMAIN.vercel.app/#products</g:link><g:image_link>https://YOUR-VERCEL-DOMAIN.vercel.app/images/sneakers.jpg</g:image_link><g:brand>Northstar</g:brand></item>
+    <item><g:id>NS-006</g:id><g:title>Essential Mug</g:title><g:description>Your new favorite morning ritual.</g:description><g:availability>in_stock</g:availability><g:condition>new</g:condition><g:price>310.00 EGP</g:price><g:link>https://YOUR-VERCEL-DOMAIN.vercel.app/#products</g:link><g:image_link>https://YOUR-VERCEL-DOMAIN.vercel.app/images/mug.jpg</g:image_link><g:brand>Northstar</g:brand></item>
+  </channel>
+</rss>
